@@ -1,0 +1,81 @@
+Assault Rifle
+=====================
+
+The Assault Rifle has been developed and tested on a Win XP platform only. The
+development environment was CD++ Toolkit, Version 3.3 for Eclipse. The CD++
+Builder Plugin for Eclipse was Version 1.1.0.
+
+Step 1:
+	Download the Rifle.zip file and save to a convenient location.
+
+Step 2:
+	Within Eclipse (with CD++ Builder Plugin), create a new CD++ Project.
+
+Step 3:
+	Select "Import" from the file menu, and navigate to the Rifle.zip file.
+	Select it, and select all the files in the archive to import.
+
+Step 4:
+	There are source files (.cpp and .h) as well as other files supporting the
+	testing of the components (.ma .ev .bat and sample .log files), and finally
+	files for the overall model. If these are extracted under a sub-folder,
+	select them all and drag them to your Project root folder. The following files will
+	be extracted:
+	
+		BoltAssy.h
+		BoltAssy.cpp
+		BoltAssy.ev
+		BoltAssyMA.ma
+		BoltAssyLOG.log
+		BoltAssy.bat
+		
+		Bullet.h
+		Bullet.cpp
+		Bullet.ev
+		BulletMA.ma
+		BulletLOG.log
+		Bullet.bat
+		
+		Chamber.h
+		Chamber.cpp
+		Chamber.ev
+		ChamberMA.ma
+		ChamberLOG.log
+		Chamber.bat
+		
+		MagAssy.ev
+		MagAssyMA.ma
+		MagAssyLOG.log
+		MagAssy.bat
+		
+		Magazine.h
+		Magazine.cpp
+		Magazine.ev
+		MagazineMA.ma
+		MagazineLOG.log
+		Magazine.bat
+		
+		Rifle.ev
+		RifleMA.ma
+		RifleLOG.log
+		Rifle.bat
+	
+		RifleReadme (this file - instructions)
+		Rifle.doc (Model report, Word .doc format)
+		Rifle.pdf (Model report, pretty Postscript document format .pdf)
+		register.cpp
+		
+		TrigAssy.h
+		TrigAssy.cpp
+		TrigAssy.ev
+		TrigAssyMA.ma
+		TrigAssyLOG.log
+		TrigAssy.bat
+		
+
+Step 5:  
+	Now its time to compile the Rifle model. Click on one of the files, and click on the "Build" button.
+
+Step 6:
+	Each of the atomic models can tested using the attached ".bat" files, appropriately named.
+	To test the full Rifle model, run "Rifle.bat". ENJOY!

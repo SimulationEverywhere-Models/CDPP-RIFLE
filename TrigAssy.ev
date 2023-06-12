@@ -1,0 +1,21 @@
+00:00:00:100 in_firingSelector 0
+00:00:00:200 in_triggerPressed 1
+00:00:00:300 in_triggerPressed 0
+
+00:00:01:000 in_firingSelector 1
+00:00:01:100 in_triggerPressed 1
+00:00:02:000 in_boltBack 1
+00:00:02:100 in_boltBack 1
+00:00:02:200 in_boltBack 1
+00:00:02:300 in_triggerPressed 0
+
+00:00:03:000 in_firingSelector 2
+00:00:03:100 in_triggerPressed 1
+00:00:04:000 in_boltBack 1
+00:00:04:100 in_boltBack 1
+00:00:04:200 in_boltBack 1
+00:00:04:300 in_boltBack 1
+00:00:04:400 in_boltBack 1
+00:00:04:500 in_boltBack 1
+00:00:04:600 in_boltBack 1
+00:00:04:700 in_triggerPressed 0

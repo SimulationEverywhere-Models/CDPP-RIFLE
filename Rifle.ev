@@ -1,0 +1,31 @@
+00:00:00:100 inInitMagSeating 1
+00:00:00:100 inInitBullets 10
+00:00:00:200 inFiringSelector 2
+00:00:00:300 inHandlePosn 1
+00:00:00:400 inTriggerPressed 1
+00:00:00:800 inTriggerPressed 0
+
+00:00:02:100 inInitMagSeating 1
+00:00:02:100 inInitBullets 30
+00:00:02:200 inFiringSelector 0
+00:00:02:300 inHandlePosn 1
+00:00:02:400 inTriggerPressed 1
+
+00:00:04:100 inInitMagSeating 1
+00:00:04:100 inInitBullets 10
+00:00:04:200 inFiringSelector 1
+00:00:04:300 inHandlePosn 1
+00:00:04:400 inTriggerPressed 1
+00:00:04:500 inTriggerPressed 1
+00:00:04:600 inTriggerPressed 1
+00:00:04:700 inTriggerPressed 1
+00:00:04:800 inTriggerPressed 1
+00:00:04:900 inTriggerPressed 1
+00:00:05:000 inTriggerPressed 1
+00:00:05:100 inTriggerPressed 1
+00:00:05:200 inTriggerPressed 1
+00:00:05:300 inTriggerPressed 1
+00:00:05:400 inTriggerPressed 1
+00:00:05:500 inTriggerPressed 1
+00:00:05:600 inTriggerPressed 1
+00:00:05:700 inTriggerPressed 1
